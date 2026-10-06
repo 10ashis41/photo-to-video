@@ -1,0 +1,5 @@
+{
+  "flux2_endpoint_id": "YOUR_FLUX2_ENDPOINT_ID",
+  "wan22_endpoint_id": "YOUR_WAN22_ENDPOINT_ID",
+  "runpod_api_key": "or leave this out and set RUNPOD_API_KEY as an env var instead"
+}
